@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyMiniProject</string>
+    <string name="Msg1">Hello User!!!</string>
+    <string name="Msg2">Period Starts,TAP Below to Record!!!</string>
+    <string name="Msg4">WelcomeGuide</string>
+    <string name="Msg5">WelcomeMsg</string>
+    <string name="PMsg5">Calendar</string>
+    <string name="PMsg6">Add Note</string>
+    <string name="PMsg7">Add record</string>
+    <string name="PMsg8">Period Start Date</string>
+    <string name="PMsg9">Add Date</string>
+    <string name="PMsg10">Enter Date</string>
+    <string name="PMsg11">Period Ends ,Tab below to Record!!!</string>
+    <string name="PMsg12">Period End Date</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="Msg3">Month Year</string>
+</resources>
